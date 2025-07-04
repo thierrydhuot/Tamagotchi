@@ -1,0 +1,13 @@
+name=dawdw
+type=DOG
+health=100
+maxHealth=100
+energy=98
+fullness=98
+happiness=98
+currency=100
+score=0
+kibble=0
+treats=1
+premiumFood=1
+vaccine=0

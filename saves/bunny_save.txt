@@ -1,0 +1,6 @@
+name=bunny
+type=BUNNY
+health=100
+happiness=100
+fullness=100
+energy=100
